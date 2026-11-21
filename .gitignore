@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files & caches
+__pycache__/
+*.py[cod]
+*.tmp
+*.log
+.build/
+
+# Uncomment the lines below if you ONLY want source code in git (and want users to compile with 'make')
+# autoclicker
+# AutoClickerGUI
+# AutoClicker.app/

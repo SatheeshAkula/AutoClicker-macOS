@@ -1,0 +1,112 @@
+{
+  "name" : "AutoClicker Profile",
+  "steps" : [
+    {
+      "menuOptionY" : 530,
+      "id" : "B63E884D-73E6-4C2C-ACF0-E442CB4FC292",
+      "kind" : "Keystroke",
+      "modifiers" : [
+
+      ],
+      "menuDelay" : 0.25,
+      "delaySeconds" : 1,
+      "leftClickY" : 500,
+      "rightClickX" : 500,
+      "isEnabled" : true,
+      "menuOptionX" : 500,
+      "leftClickX" : 500,
+      "rightClickY" : 500,
+      "selectMenuOption" : false,
+      "clickCurrentPosition" : true,
+      "keyText" : "down",
+      "doubleClick" : false
+    },
+    {
+      "menuOptionY" : 530,
+      "id" : "86C8E64C-086A-43D7-B28A-88234647F747",
+      "kind" : "Keystroke",
+      "modifiers" : [
+        "command"
+      ],
+      "menuDelay" : 0.25,
+      "delaySeconds" : 1,
+      "leftClickY" : 500,
+      "rightClickX" : 500,
+      "isEnabled" : true,
+      "menuOptionX" : 500,
+      "leftClickX" : 500,
+      "rightClickY" : 500,
+      "selectMenuOption" : false,
+      "clickCurrentPosition" : true,
+      "keyText" : "d",
+      "doubleClick" : false
+    },
+    {
+      "menuOptionY" : 530,
+      "id" : "02D7747B-E4B4-4972-B4D1-26D23F83B9DA",
+      "kind" : "Mouse Left Click",
+      "modifiers" : [
+
+      ],
+      "menuDelay" : 0.25,
+      "delaySeconds" : 1,
+      "leftClickY" : 333,
+      "rightClickX" : 500,
+      "isEnabled" : true,
+      "menuOptionX" : 500,
+      "leftClickX" : 2858,
+      "rightClickY" : 500,
+      "selectMenuOption" : false,
+      "clickCurrentPosition" : false,
+      "keyText" : "d",
+      "doubleClick" : false
+    },
+    {
+      "menuOptionY" : 530,
+      "id" : "9ADDCD65-C971-4ECC-AB07-980994B5FEE4",
+      "kind" : "Delay Timer",
+      "modifiers" : [
+
+      ],
+      "menuDelay" : 0.25,
+      "delaySeconds" : 1.3000000000000003,
+      "leftClickY" : 500,
+      "rightClickX" : 500,
+      "isEnabled" : true,
+      "menuOptionX" : 500,
+      "leftClickX" : 500,
+      "rightClickY" : 500,
+      "selectMenuOption" : false,
+      "clickCurrentPosition" : true,
+      "keyText" : "d",
+      "doubleClick" : false
+    },
+    {
+      "menuOptionY" : 530,
+      "id" : "92E82EC4-2828-44A7-A54F-193A745B3E1C",
+      "kind" : "Delay Timer",
+      "modifiers" : [
+        "command"
+      ],
+      "menuDelay" : 0.25,
+      "delaySeconds" : 1,
+      "leftClickY" : 500,
+      "rightClickX" : 500,
+      "isEnabled" : false,
+      "menuOptionX" : 500,
+      "leftClickX" : 500,
+      "rightClickY" : 500,
+      "selectMenuOption" : false,
+      "clickCurrentPosition" : true,
+      "keyText" : "s",
+      "doubleClick" : false
+    }
+  ],
+  "settings" : {
+    "startHotkey" : "F6",
+    "initialCountdown" : 5,
+    "isInfiniteRepeat" : true,
+    "universalStepDelay" : 0.5,
+    "repeatCount" : 10
+  }
+}
